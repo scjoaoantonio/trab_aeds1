@@ -4,7 +4,7 @@ Trabalho realizado por alunos de Ciências da Computação - UFSJ (2019)
 
 ## Objetivo do Trabalho
 
-O objetivo do trabalho ́é desenvolver o jogo chamado Sudoku, muito
+O objetivo do trabalho é desenvolver o jogo chamado Sudoku, muito
 comum em revistas e jornais.
 
 ## Lógica
