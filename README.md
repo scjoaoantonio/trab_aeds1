@@ -1,6 +1,6 @@
 # Sudoku (Programado em C)
 
-\*Trabalho realizado por alunos de Ciências da Computação - UFSJ (2019)
+* Trabalho realizado por alunos de Ciências da Computação - UFSJ (2019)
 
 ## Objetivo do Trabalho
 
